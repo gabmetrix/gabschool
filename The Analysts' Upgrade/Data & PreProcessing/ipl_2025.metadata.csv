@@ -1,0 +1,24 @@
+column,dtype,num_missing,num_unique,sample_values
+match_id,int64,0,1153,"[598068, 1304076, 598040, 598054, 1304062]"
+season,object,0,18,"['2013', '2022', '2020/21', '2015', '2024']"
+start_date,object,0,871,"['2013-05-18', '2022-04-18', '2013-05-01', '2013-05-10', '2022-04-08']"
+venue,object,0,58,"['M Chinnaswamy Stadium', 'Brabourne Stadium, Mumbai', 'Shaheed Veer Narayan Singh International Stadium', 'Feroz Shah Kotla', 'Sheikh Zayed Stadium']"
+innings,int64,0,6,"[1, 2, 3, 4, 5]"
+ball,float64,0,185,"[0.1, 0.2, 0.3, 0.4, 0.5]"
+batting_team,object,0,19,"['Royal Challengers Bangalore', 'Chennai Super Kings', 'Rajasthan Royals', 'Kolkata Knight Riders', 'Delhi Daredevils']"
+bowling_team,object,0,19,"['Chennai Super Kings', 'Royal Challengers Bangalore', 'Kolkata Knight Riders', 'Rajasthan Royals', 'Delhi Daredevils']"
+striker,object,0,696,"['V Kohli', 'CH Gayle', 'AB de Villiers', 'MC Henriques', 'MEK Hussey']"
+non_striker,object,0,686,"['CH Gayle', 'V Kohli', 'AB de Villiers', 'MC Henriques', 'M Vijay']"
+bowler,object,0,548,"['R Ashwin', 'CH Morris', 'JO Holder', 'DJ Bravo', 'MM Sharma']"
+runs_off_bat,int64,0,7,"[0, 4, 1, 6, 2]"
+extras,int64,0,7,"[0, 1, 2, 4, 5]"
+wides,float64,265449,5,"[1.0, 2.0, 5.0, 3.0, 4.0]"
+noballs,float64,273234,4,"[1.0, 5.0, 2.0, 3.0]"
+byes,float64,273682,4,"[2.0, 1.0, 4.0, 3.0]"
+legbyes,float64,270221,5,"[1.0, 4.0, 2.0, 3.0, 5.0]"
+penalty,float64,274377,1,[5.0]
+wicket_type,object,260744,10,"['caught', 'caught and bowled', 'bowled', 'run out', 'stumped']"
+player_dismissed,object,260744,650,"['CH Gayle', 'AB de Villiers', 'MEK Hussey', 'SK Raina', 'DJ Bravo']"
+other_wicket_type,float64,274379,0,[]
+other_player_dismissed,float64,274379,0,[]
+year,int64,0,18,"[2013, 2022, 2020, 2015, 2024]"
