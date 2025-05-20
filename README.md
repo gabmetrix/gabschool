@@ -1,9 +1,7 @@
 # The Analyst’s Upgrade : GabMetrix
 
 <aside>
-🚀
-
-Upgrade your data skills — from Excel formulas to Power BI dashboards.
+🚀 Upgrade your data skills — from Excel formulas to Power BI dashboards.
 
 </aside>
 
