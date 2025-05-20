@@ -1,9 +1,5 @@
 # The Analyst’s Upgrade : GabMetrix
 
-Category: 🎙️ Delivery & Follow-Up
-Due Date: June 8, 2025   (GMT+5:30)
-Status 1: Not started
-
 <aside>
 🚀
 
